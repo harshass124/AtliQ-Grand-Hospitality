@@ -4,6 +4,7 @@
 This project involves analyzing and gaining insights from **hotel booking data** through SQL queries and creating **visualizations** to assist AtliQ Grand Hospitality in optimizing their hotel operations, improving customer experience, and scaling their business.  
 
 ##### [Live Dashboard](https://app.powerbi.com/groups/me/reports/c0632ab0-a2cd-490a-83d1-b22913466ce2/5acd52a7a57d8c5376eb?experience=power-bi)
+##### [LinkedIn Post](https://www.linkedin.com/posts/harshass_hospitalityinsights-datadashboard-businessintelligence-activity-7263097941492408321-TrMz?utm_source=share&utm_medium=member_desktop)
 ## Objective  
 To provide the management team with data-driven insights into hotel performance, customer trends, room utilization, and revenue generation, helping them make informed business decisions.  
 
